@@ -18,4 +18,7 @@ image.fits
 astr_119_final_project_3.pdf
    
    - astronomical source detection project description
-    
+   
+extra_credit_3_image_RGB.ipynb
+   
+   - this notebook creates RGB png out of 3 fits files 
